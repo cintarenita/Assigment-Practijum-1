@@ -1,0 +1,39 @@
+body{
+    font-family:Cambria;
+}
+a{
+    text-decoration: none;
+}
+b{
+    font-size: 29px;
+}
+h3{
+    Margin-left: 375px;
+}
+ol{
+    margin-left:355px;
+}
+h1{
+    font-family: Verdana black;
+    line-height: 1.0;
+    font-size:  48px;
+}
+
+h2{
+    font-family: Verdana;
+    font-size: 20px;
+    line-height: 1.0;
+    margin-left:375px;
+}
+pre{
+    margin-left: 375px;
+    font-family:helvetica;
+    text-align: justify;
+}
+p{
+    font-size: 11px;
+    line-height: 0.05;
+}
+small{
+    font-size:10px ;
+}
